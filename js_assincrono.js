@@ -42,3 +42,9 @@ esperarTempo(2000)
 // Se sim, retorna a função do resolve -> informando que o bolo assou com sucesso
 // Se não, retorna reject com bolo queimado ou cru
 // finally, criatividade de voces.
+
+
+// Criar uma função que recebe um número aleatório, gerem o numero aleatorio
+// quando chamar a funcao(usem metodos js)
+// se o numero for maior que 5, retorna resolve, se não retorna reject
+// usem o finally livremente.
